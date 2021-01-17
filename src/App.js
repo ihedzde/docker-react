@@ -7,7 +7,13 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Docker-Compose magic 🐳 ✨ Yay!!
+          Now I am CI/CD dev!
+        </p>
+        <p>
+          Hosted it on AWS 🌳.
+        </p>
+        <p>
+          And it's on the feature branch.
         </p>
         <a
           className="App-link"
